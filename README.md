@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/_atlj" target="blank"><img src="https://img.shields.io/twitter/follow/_atlj?logo=twitter&style=for-the-badge" alt="_atlj" /></a> </p>
 
-- 🔭 I’m currently working on [Kelime Oyunu](https://github.com/atlj/kelime-oyunu)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_atlj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_atlj" height="30" width="40" /></a>
