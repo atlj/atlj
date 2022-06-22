@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">A frontend developer mainly interested in React and React Native.</h3>
+<h3 align="center">Frontend Dev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atlj&label=Profile%20views&color=0e75b6&style=flat" alt="atlj" /> </p>
 
